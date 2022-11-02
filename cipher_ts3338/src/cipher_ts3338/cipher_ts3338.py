@@ -1,3 +1,5 @@
+import pandas
+
 def cipher(text, shift, encrypt=True):
     
 """ 
